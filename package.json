@@ -1,0 +1,17 @@
+{
+  "name": "theme-pack",
+  "displayName": "theme-pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "fisheva.eva-theme",
+    "rsbondi.highlight-words",
+    "alefragnani.Bookmarks"
+  ]
+}
